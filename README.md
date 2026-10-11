@@ -1,1 +1,1 @@
-# scheduling-service
+# @nuxt4-layers/scheduling-service
